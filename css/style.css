@@ -16,7 +16,7 @@ body {
 	z-index: 2;
 }
 .carousel-caption h5 {
-	font-size:60px;
+	font-size:40px;
 	text-transform: uppercase;
 	margin-top: 25px;
 	font-weight: 900;
@@ -173,7 +173,9 @@ div.btn-services-scroll {
 	.slider-wrapper {
 	  margin: 0 10px 40px;
 	}
-  
+  .section-padding {
+padding: 100px 3px;
+}
 	.slider-wrapper .swiper-slide-button {
 	  display: none;
 	}
