@@ -1,1 +1,11 @@
-
+{
+  "email": "info@example.com",
+  "phone": "+1234567890",
+  "address": "123 شارع المثال، المدينة، الدولة",
+  "social_media": {
+    "facebook": "https://www.facebook.com/yourpage",
+    "twitter": "https://twitter.com/yourprofile",
+    "instagram": "https://www.instagram.com/yourprofile",
+    "linkedin": "https://www.linkedin.com/in/yourprofile"
+  }
+}
