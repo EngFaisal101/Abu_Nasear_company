@@ -1,22 +1,26 @@
 [
     {
-        "name": "دهانات جدة",
+        "title": "دهانات جدة",
         "image": "https://i.postimg.cc/SNmPsMYV/five.jpg",
+         "description": "الوصف هنا",
         "timestamp": "2025-01-27 20:40:05"
     },
     {
         "name": "سراميك",
         "image": "https://i.postimg.cc/SNmPsMYV/five.jpg",
+        "description": "الوصف هنا",
         "timestamp": "2025-01-27 20:40:49"
     },
     {
         "name": "رخام",
         "image": "https://i.postimg.cc/SNmPsMYV/five.jpg",
+        "description": "الوصف هنا",
         "timestamp": "2025-01-27 22:10:06"
     },
      {
         "name": "رخام",
         "image": "https://i.postimg.cc/SNmPsMYV/five.jpg",
+        "description": "الوصف هنا",
         "timestamp": "2025-01-27 22:10:06"
     }
 ]
