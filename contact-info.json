@@ -1,11 +1,5 @@
 {
-  "email": "info@example.com",
-  "phone": "+966 54 631 7866",
-  "address": "جدة",
-  "social_media": {
-    "facebook": "https://www.facebook.com/yourpage",
-    "twitter": "https://twitter.com/yourprofile",
-    "instagram": "https://www.instagram.com/yourprofile",
-    "linkedin": "https://www.linkedin.com/in/yourprofile"
-  }
+  "title": "info@example.com",
+  "image": "+966 54 631 7866",
+  "description": "جدة"
 }
